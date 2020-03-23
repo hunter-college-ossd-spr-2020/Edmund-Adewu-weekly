@@ -25,3 +25,4 @@ following the same syntax.
 |---|:---|:---|:---|
 |  3   |  [Food Bazaar](https://www.openstreetmap.org/changeset/81030270), [Little Caesars](https://www.openstreetmap.org/changeset/81051784)   |  OpenStreetMap Edit   |  Business information for Food Bazaar and Little Caesars was added to the map.   
 | 6 | [Karma Urban Wear](https://www.openstreetmap.org/changeset/81939337) | OpenStreetMap Edit |Added Karma Urban Wear information to the map.|
+|8|[Wendys](https://www.openstreetmap.org/changeset/82497670)|OpenStreetMap Edit|Added Wendy's business information to the map.|
