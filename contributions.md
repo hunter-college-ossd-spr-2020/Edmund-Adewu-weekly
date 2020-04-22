@@ -33,3 +33,4 @@ following the same syntax.
 |9|[CVS Pharmacy](https://www.openstreetmap.org/changeset/82784483)|OpenStreetMap Edit|Added CVS Pharmacy business information to the map.|
 |9|[McDonald's](https://www.openstreetmap.org/changeset/82785578)|OpenStreetMap Edit|Added McDonalds's business information to the map.|
 |9|[Wendys](https://www.openstreetmap.org/changeset/82786395)|OpenStreetMap Edit|Added Wendy's business information for 14th St location to the map.|
+|10|[Car Bomb](https://en.wikipedia.org/w/index.php?title=Car_bomb&diff=prev&oldid=949545148)|Wikipedia Edit|Added the 2018 Kabul ambulance bombing to the list of vehicular bombing incidents.|
